@@ -1,3 +1,5 @@
 function test() {}
 
-function foo() {}
+function foo() {
+	console.log(1);
+}
